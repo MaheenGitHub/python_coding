@@ -16,6 +16,9 @@ num.append(6)
 #print(num.append(6)) # None -> no return type
 print(num)
 
+#Use append() if you want to add one item. If you append a list, it becomes a nested list: [1, 2, [3, 4]].
+num.append([5,6,7])
+
 print("insert 1 element at sp index" )
 num.insert(2,7) # the existing 2nd index is right shifted and not discarded
 print(num)
