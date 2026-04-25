@@ -33,9 +33,11 @@ Only one valid answer exists.
 """
 
 
-nums = [3,3,4,3,4,5]
-target =6
+nums = [3,2,4]
+target = 6
 result = []
+
+print("my submitted code")
 bool = False 
 for i in range(0,len(nums)) :
     
@@ -47,6 +49,32 @@ for i in range(0,len(nums)) :
 
 print(result)
 
+print("my modified logic")
+for i in range(len(nums)):
+     for j in range(i+1 , len(nums)) :
+          if(nums[i] + nums[j] == target) :
+               # return [i,j]
+               print([i,j])
+               break
+
+
+print("Approach 2 ")
+for i in range(len(nums)) :
+    need = target - nums[i]
+    if (need in nums and nums.index(need) != i ) :
+        print([i, nums.index(need)])
+        break 
+
+
+print("less time and space complexity ->one pass hash map")
+d = {}
+for i in range(len(nums)) :
+    need = target - nums[i]
+    if ( need in d ) :
+        print([d[need] , i])
+        break
+
+    d[nums[i]] = i
 
 """
 problem i submitted
