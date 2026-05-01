@@ -1,3 +1,5 @@
+#   My publisehed sol on leetcode: https://leetcode.com/problems/remove-element/solutions/8126453/python3-0ms-beats-100-simple-two-pointer-18zo/
+
 """
 27. Remove Element
 
