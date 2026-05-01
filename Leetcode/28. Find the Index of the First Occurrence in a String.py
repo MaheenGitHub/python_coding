@@ -86,3 +86,24 @@ if len(needle ) <= len(haystack) :
     
 if bool == False :
     print("-1")
+
+print("Built in cheating using find")
+index = haystack.find(needle)
+print(index)
+
+"""
+code i submitted on leetcode
+
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+    
+        if len(needle) > len(haystack) :
+            return -1
+        
+        for i in range (len(haystack)) :
+            if haystack[i : i+ len(needle)] == needle :
+                return i
+        
+        return -1  
+            
+"""
