@@ -1,3 +1,5 @@
+#   My publisehed sol on leetcode: https://leetcode.com/problems/length-of-last-word/solutions/8126751/python3-0ms-beats-100-clean-backward-tra-wpuv
+
 """
 58. Length of Last Word
 
