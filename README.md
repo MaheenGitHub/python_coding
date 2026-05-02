@@ -82,6 +82,7 @@ It includes basic programs written to understand how core programming concepts w
 
 - **Remove Element → 0ms runtime (Beats 100%)**
 - **Length of Last Word → 0ms runtime (Beats 100%)**
+- **Plus One → 0ms runtime (Beats 100%)**
 
 ---
 
