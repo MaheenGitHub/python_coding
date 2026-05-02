@@ -8,9 +8,9 @@
 
 ---
 
-This repository contains my **Python Programming Fundamentals practice work** — a collection of small programs and exercises focused on building core concepts and improving logical thinking.
+This repository contains my **Python Programming Fundamentals practice work** — a collection of small programs, exercises, and problem-solving tasks focused on building strong core concepts and improving logical thinking.
 
-> ⚠️ **Note:** This repository is for learning purposes. Code is intentionally simple and focused on understanding basics.
+> ⚠️ **Note:** This repository is for learning purposes. Code is intentionally simple and beginner-friendly.
 
 ---
 
@@ -18,23 +18,25 @@ This repository contains my **Python Programming Fundamentals practice work** �
 
 - [Overview](#overview)
 - [Topics Covered](#topics-covered)
-- [Approach](#approach)
-- [Purpose](#purpose)
+- [Approach](#-approach)
+- [Purpose](#-purpose)
 - [How to Use](#-how-to-use)
 - [Key Takeaways](#-key-takeaways)
+- [Achievements](#-achievements)
 - [Author](#author)
+- [Support](#-support)
 
 ---
 
-## Overview
+## 📌 Overview
 
 This repository reflects my learning journey in Python fundamentals through consistent practice.
 
-It includes basic programs written to understand how core programming concepts work in a practical way.
+It includes basic programs written to understand how core programming concepts work in a practical and hands-on way.
 
 ---
 
-## Topics Covered
+## 📚 Topics Covered
 
 - Variables and data types  
 - Input / Output  
@@ -62,7 +64,7 @@ It includes basic programs written to understand how core programming concepts w
 
 ## ⚙️ How to Use
 
-1. Browse the files to see different examples  
+1. Browse the files to explore different concepts  
 2. Run the code to understand outputs  
 3. Modify programs to experiment and learn  
 
@@ -76,8 +78,21 @@ It includes basic programs written to understand how core programming concepts w
 
 ---
 
+## 🏆 Achievements (screenshots attached in repo)
+
+- **Remove Element → 0ms runtime (Beats 100%)**
+- **Length of Last Word → 0ms runtime (Beats 100%)**
+
+---
+
 ## Author
 
 **Maheen Fatima**  
-- [GitHub](https://github.com/MaheenGitHub)  
-- [LinkedIn](https://www.linkedin.com/in/maheenfatimaa)
+- 💻 GitHub: https://github.com/MaheenGitHub  
+- 🔗 LinkedIn: https://www.linkedin.com/in/maheenfatimaa  
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, feel free to **star ⭐ it** 
