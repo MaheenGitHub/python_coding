@@ -81,7 +81,7 @@ It includes basic programs written to understand how core programming concepts w
 ## 🏆 Achievements (screenshots attached in repo)
 
 
-- 🚀 [Remove Element — Beats 100% (0ms)](https://leetcode.com/problems/remove-element/solutions/8126xxx)  
+- 🚀 [Remove Element — Beats 100% (0ms)](https://leetcode.com/problems/remove-element/solutions/8126453/python3-0ms-beats-100-simple-two-pointer-18zo) 
 - 🚀 [Length of Last Word — Beats 100% (0ms)](https://leetcode.com/problems/length-of-last-word/solutions/8126751/python3-0ms-beats-100-clean-backward-tra-wpuv)  
 - 🚀 [Plus One — Beats 100% (0ms)](https://leetcode.com/problems/plus-one/solutions/8127923/python3-0ms-beats-100-mathematical-place-4hvz)  
 
